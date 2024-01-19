@@ -7,7 +7,11 @@ const Home: React.FC = () => {
     <IonPage>
       <IonHeader>
         <IonToolbar>
+<<<<<<< HEAD
           <IonTitle>Duly-Noted</IonTitle>
+=======
+          <IonTitle>Blank</IonTitle>
+>>>>>>> d81f70f (Initial commit)
         </IonToolbar>
       </IonHeader>
       <IonContent fullscreen>
