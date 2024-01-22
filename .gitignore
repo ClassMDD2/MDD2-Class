@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 node_modules
 =======
+=======
+>>>>>>> 3adc9fa (first commit)
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -30,4 +33,10 @@ yarn-error.log*
 
 # Optional eslint cache
 .eslintcache
+<<<<<<< HEAD
 >>>>>>> d81f70f (Initial commit)
+=======
+=======
+node_modules
+>>>>>>> 8396c10 (first commit)
+>>>>>>> 3adc9fa (first commit)
